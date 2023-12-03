@@ -1,5 +1,4 @@
-# بررسی مقاله امنیتی NoSQL Breakdown: A Large-scale Analysis of Misconfigured
-# NoSQL Services
+# بررسی مقاله امنیتی NoSQL Breakdown: A Large-scale Analysis of Misconfigured NoSQL Services
 
 برای مشاهده این مقاله [اینجا](https://jinblack.it/static/files/nosql.pdf) را
 کلیک کنید.
